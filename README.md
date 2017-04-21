@@ -4,7 +4,7 @@ Everything you should learn to be a good designer.
 Table of Contents
 ------
 1. Introduction
-2. Learning the Basics
+2. Learning the Basics  
   * Sociology
   * Psychology
   * Anthropology
